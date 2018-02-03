@@ -1,6 +1,6 @@
 {
   "name": "sparrow-popup",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "script for common popup or float layer stuff in web pages",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/cheap-pets/sparrow-popup/issues"
   },
-  "homepage": "https://github.com/cheap-pets/sparrow-popup#readme"
+  "homepage": "https://github.com/cheap-pets/sparrow-popup#readme",
+  "dependencies": {
+    "sparrow-device-query": "^1.0.0"
+  }
 }
