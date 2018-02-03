@@ -1,0 +1,29 @@
+{
+  "name": "sparrow-popup",
+  "version": "1.0.0",
+  "description": "script for common popup or float layer stuff in web pages",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheap-pets/sparrow-popup.git"
+  },
+  "keywords": [
+    "popup"
+  ],
+  "author": "scrollbar-ww",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheap-pets/sparrow-popup/issues"
+  },
+  "homepage": "https://github.com/cheap-pets/sparrow-popup#readme"
+}
