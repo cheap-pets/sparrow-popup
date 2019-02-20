@@ -1,7 +1,7 @@
 {
   "name": "sparrow-popup",
-  "version": "1.0.11",
-  "description": "script for common popup or float layer stuff in web pages",
+  "version": "2.0.0",
+  "description": "controls popup layers",
   "main": "lib/index.js",
   "module": "lib/index.js",
   "files": [
@@ -26,7 +26,12 @@
     "url": "https://github.com/cheap-pets/sparrow-popup/issues"
   },
   "homepage": "https://github.com/cheap-pets/sparrow-popup#readme",
-  "dependencies": {
-    "sparrow-device-query": "^1.0.0"
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "core-js": "^2.6.5",
+    "rollup": "^1.2.2",
+    "rollup-plugin-babel": "^4.3.2"
   }
 }
