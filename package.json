@@ -1,6 +1,6 @@
 {
   "name": "sparrow-popup",
-  "version": "2.0.14",
+  "version": "2.0.15",
   "description": "controls popup layers",
   "module": "lib/index.js",
   "files": [
