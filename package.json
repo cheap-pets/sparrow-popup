@@ -1,6 +1,6 @@
 {
   "name": "sparrow-popup",
-  "version": "2.0.23",
+  "version": "2.0.24",
   "description": "controls popup layers",
   "module": "lib/index.js",
   "files": [
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/cheap-pets/sparrow-popup#readme",
   "dependencies": {
-    "is-touch-device": "^1.0.1"
+    "is-touch-device": "^1.0.1",
+    "sparrow-device-query": "^1.0.0"
   }
 }
